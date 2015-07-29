@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "mog1",
+	"frame": {"x":2,"y":101,"w":24,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
+	"sourceSize": {"w":24,"h":40}
+},
+{
+	"filename": "mog2",
+	"frame": {"x":28,"y":143,"w":25,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":40},
+	"sourceSize": {"w":25,"h":40}
+},
+{
+	"filename": "mog3",
+	"frame": {"x":2,"y":143,"w":24,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
+	"sourceSize": {"w":24,"h":40}
+},
+{
+	"filename": "mog4",
+	"frame": {"x":28,"y":101,"w":25,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":40},
+	"sourceSize": {"w":25,"h":40}
+},
+{
+	"filename": "mog5",
+	"frame": {"x":28,"y":59,"w":25,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":40},
+	"sourceSize": {"w":25,"h":40}
+},
+{
+	"filename": "mog6",
+	"frame": {"x":29,"y":185,"w":24,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":44},
+	"sourceSize": {"w":24,"h":44}
+},
+{
+	"filename": "mog7",
+	"frame": {"x":2,"y":59,"w":24,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
+	"sourceSize": {"w":24,"h":40}
+},
+{
+	"filename": "mog8",
+	"frame": {"x":2,"y":185,"w":25,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":41},
+	"sourceSize": {"w":25,"h":41}
+},
+{
+	"filename": "mog9",
+	"frame": {"x":2,"y":26,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31}
+},
+{
+	"filename": "mog10",
+	"frame": {"x":2,"y":2,"w":42,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":22},
+	"sourceSize": {"w":42,"h":22}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mog.png",
+	"format": "RGBA8888",
+	"size": {"w":55,"h":231},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7af1d03f3bf74b97aed2befb70c2eea:14fcb7ae0abb6e9d90f1a956d70a3327:ce68d9b12a364da6be51b3d9f467ca8e$"
+}
+}
